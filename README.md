@@ -1,2 +1,3 @@
 # DiffEqn
-finite diference simulation of diffusion equation
+Python program to solve diffusion equation using 
+the finite volume discretization 
